@@ -13,8 +13,10 @@ import pandas as pd
 # ----------- CONFIG / STATIC INPUT -----------
 # URL_INPUT = "https://www.tanyapepsodent.com/home.html"
 # URL_INPUT = "https://www.rexona.com/br/home.html"
-URL_INPUT = "https://www.dove.com/us/en/home.html"
+# URL_INPUT = "https://www.dove.com/us/en/home.html"
 # URL_INPUT = "https://www.suredeodorant.co.uk/home.html"
+URL_INPUT ="https://www.degreedeodorant.com/us/en/home.html"
+
 
 url_sitemap_dict = {
     "https://www.degreedeodorant.com/us/en/home.html": "https://www.degreedeodorant.com/us/en/sitemap.xml",
